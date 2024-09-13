@@ -1,0 +1,52 @@
+EVT,Past,ACRES
+Current Agricultural,Past  Conifer,4
+Current Agricultural,Past  Grassland,7
+Current Agricultural,Past  Riparian,12
+Current Agricultural,Past  Shrubland,3
+Current Conifer,Past  Conifer,1514722
+Current Conifer,Past  Grassland,31397
+Current Conifer,Past  Hardwood,103
+Current Conifer,Past  Hardwood-Conifer,14569
+Current Conifer,Past  Riparian,97333
+Current Conifer,Past  Shrubland,85841
+Current Conifer-Hardwood,Past  Conifer,90155
+Current Conifer-Hardwood,Past  Grassland,215
+Current Conifer-Hardwood,Past  Hardwood,2
+Current Conifer-Hardwood,Past  Hardwood-Conifer,706
+Current Conifer-Hardwood,Past  Riparian,7322
+Current Conifer-Hardwood,Past  Shrubland,5908
+Developed,Past  Conifer,59526
+Developed,Past  Grassland,6451
+Developed,Past  Hardwood,1
+Developed,Past  Hardwood-Conifer,242
+Developed,Past  Riparian,7874
+Developed,Past  Shrubland,13345
+Exotics,Past  Conifer,9349
+Exotics,Past  Grassland,367
+Exotics,Past  Hardwood,1
+Exotics,Past  Hardwood-Conifer,66
+Exotics,Past  Riparian,557
+Exotics,Past  Shrubland,437
+Current Grassland,Past  Conifer,41868
+Current Grassland,Past  Grassland,21337
+Current Grassland,Past  Hardwood,8
+Current Grassland,Past  Hardwood-Conifer,635
+Current Grassland,Past  Riparian,2801
+Current Grassland,Past  Shrubland,17665
+Current Hardwood,Past  Conifer,748
+Current Hardwood,Past  Grassland,9
+Current Hardwood,Past  Hardwood,121
+Current Hardwood,Past  Hardwood-Conifer,2478
+Current Hardwood,Past  Riparian,40
+Current Hardwood,Past  Shrubland,2
+Current Riparian,Past  Conifer,2113
+Current Riparian,Past  Grassland,9495
+Current Riparian,Past  Hardwood-Conifer,40
+Current Riparian,Past  Riparian,10075
+Current Riparian,Past  Shrubland,4416
+Current Shrubland,Past  Conifer,55399
+Current Shrubland,Past  Grassland,8503
+Current Shrubland,Past  Hardwood,7
+Current Shrubland,Past  Hardwood-Conifer,891
+Current Shrubland,Past  Riparian,3383
+Current Shrubland,Past  Shrubland,31134

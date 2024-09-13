@@ -1,0 +1,84 @@
+TransitionGroupID,Model_Code,annual_probability,BpS_Name,BLUE,ACRES,REL_PERCENT,annual_dist_acres
+All Fire,10230_14_15_24_25,0.0431672,Madrean Encinal,0.517647059,61191,2.8,2641.444135
+All Fire,10240_14_15_24,0.0423804,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,5990.51192
+All Fire,10250_14_15_24_25_26,0.0215966,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,679.2778598
+All Fire,10540_15_25,0.1084062,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,138451.0867
+All Fire,10540_16_23_24,0.0586996,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,1777.365188
+All Fire,11040_15,0.013108,Mogollon Chaparral,0.82745098,27473,1.3,360.116084
+All Fire,11070_15,0.0260746,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,0.874509804,36228,1.7,944.6306088
+All Fire,11170_13_15_28,0.0922292,Southern Rocky Mountain Ponderosa Pine Savanna,0,185004,8.5,17062.77092
+All Fire,11270_15,0.0084802,Inter-Mountain Basins Semi-Desert Shrub-Steppe,0.843137255,72451,3.3,614.3989702
+All Fire,11460_15_16_23_24_25_28,0.1000288,Southern Rocky Mountain Montane-Subalpine Grassland,0.698039216,50568,2.3,5058.256358
+All Fire,11590_15,0.151441,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,19222.86045
+All Transitions,10230_14_15_24_25,0.0542544,Madrean Encinal,0.517647059,61191,2.8,3319.88099
+All Transitions,10240_14_15_24,0.053263,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,7528.778313
+All Transitions,10250_14_15_24_25_26,0.0272986,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,858.6228658
+All Transitions,10540_15_25,0.1109472,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,141696.3274
+All Transitions,10540_16_23_24,0.0693576,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,2100.07877
+All Transitions,11040_15,0.013108,Mogollon Chaparral,0.82745098,27473,1.3,360.116084
+All Transitions,11070_15,0.0260746,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,0.874509804,36228,1.7,944.6306088
+All Transitions,11170_13_15_28,0.0951214,Southern Rocky Mountain Ponderosa Pine Savanna,0,185004,8.5,17597.83949
+All Transitions,11270_15,0.1252672,Inter-Mountain Basins Semi-Desert Shrub-Steppe,0.843137255,72451,3.3,9075.733907
+All Transitions,11460_15_16_23_24_25_28,0.1482314,Southern Rocky Mountain Montane-Subalpine Grassland,0.698039216,50568,2.3,7495.765435
+All Transitions,11590_15,0.3580462,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,45447.8783
+Alternative Succession,10230_14_15_24_25,0.0062724,Madrean Encinal,0.517647059,61191,2.8,383.8144284
+Alternative Succession,10240_14_15_24,0.0061624,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,871.0614024
+Alternative Succession,10540_15_25,0.0020834,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,2660.816393
+Alternative Succession,10540_16_23_24,0.0077474,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,234.5835246
+Alternative Succession,11170_13_15_28,0.0028922,Southern Rocky Mountain Ponderosa Pine Savanna,0,185004,8.5,535.0685688
+Alternative Succession,11270_15,0.0021546,Inter-Mountain Basins Semi-Desert Shrub-Steppe,0.843137255,72451,3.3,156.1029246
+Competition or Maintenance,11460_15_16_23_24_25_28,0.0482026,Southern Rocky Mountain Montane-Subalpine Grassland,0.698039216,50568,2.3,2437.509077
+Insect or Disease,10540_15_25,0.0004576,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,584.4242976
+Insect or Disease,10540_16_23_24,0.0029106,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,88.1300574
+Insect or Disease,11270_15,0.0136456,Inter-Mountain Basins Semi-Desert Shrub-Steppe,0.843137255,72451,3.3,988.6373656
+Mixed Fire,10230_14_15_24_25,0.005273,Madrean Encinal,0.517647059,61191,2.8,322.660143
+Mixed Fire,10240_14_15_24,0.0051404,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,726.6006804
+Mixed Fire,10250_14_15_24_25_26,0.004713,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,148.237989
+Mixed Fire,10540_15_25,0.0093404,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,11929.1012
+Mixed Fire,10540_16_23_24,0.0044034,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,133.3305486
+Mixed Fire,11070_15,0.0058584,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,0.874509804,36228,1.7,212.2381152
+Non Fire Disturbances,10230_14_15_24_25,0.0048148,Madrean Encinal,0.517647059,61191,2.8,294.6224268
+Non Fire Disturbances,10240_14_15_24,0.0047202,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,667.2049902
+Non Fire Disturbances,10250_14_15_24_25_26,0.005702,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,179.345006
+Non Fire Disturbances,10540_15_25,0.0004576,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,584.4242976
+Non Fire Disturbances,10540_16_23_24,0.0029106,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,88.1300574
+Non Fire Disturbances,11270_15,0.1146324,Inter-Mountain Basins Semi-Desert Shrub-Steppe,0.843137255,72451,3.3,8305.232012
+Non Fire Disturbances,11460_15_16_23_24_25_28,0.0482026,Southern Rocky Mountain Montane-Subalpine Grassland,0.698039216,50568,2.3,2437.509077
+Non Fire Disturbances,11590_15,0.2066052,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,26225.01785
+Non Replacement Fire,10230_14_15_24_25,0.0352338,Madrean Encinal,0.517647059,61191,2.8,2155.991456
+Non Replacement Fire,10240_14_15_24,0.0345032,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,4877.061823
+Non Replacement Fire,10250_14_15_24_25_26,0.0141346,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,444.5755738
+Non Replacement Fire,10540_15_25,0.1059008,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,135251.3126
+Non Replacement Fire,10540_16_23_24,0.0551132,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,1668.772583
+Non Replacement Fire,11040_15,0.0005036,Mogollon Chaparral,0.82745098,27473,1.3,13.8354028
+Non Replacement Fire,11070_15,0.0058584,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,0.874509804,36228,1.7,212.2381152
+Non Replacement Fire,11170_13_15_28,0.08955,Southern Rocky Mountain Ponderosa Pine Savanna,0,185004,8.5,16567.1082
+Non Replacement Fire,11460_15_16_23_24_25_28,0.0483686,Southern Rocky Mountain Montane-Subalpine Grassland,0.698039216,50568,2.3,2445.903365
+Non Replacement Fire,11590_15,0.1327698,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,16852.86902
+Optional 1,11590_15,0.0559136,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,7097.280989
+Optional Types,11590_15,0.0559136,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,7097.280989
+Replacement Fire,10230_14_15_24_25,0.0079334,Madrean Encinal,0.517647059,61191,2.8,485.4526794
+Replacement Fire,10240_14_15_24,0.0078772,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,1113.450097
+Replacement Fire,10250_14_15_24_25_26,0.007462,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,234.702286
+Replacement Fire,10540_15_25,0.0025054,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,3199.774115
+Replacement Fire,10540_16_23_24,0.0035864,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,108.5926056
+Replacement Fire,11040_15,0.0126044,Mogollon Chaparral,0.82745098,27473,1.3,346.2806812
+Replacement Fire,11070_15,0.0202162,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,0.874509804,36228,1.7,732.3924936
+Replacement Fire,11170_13_15_28,0.0026792,Southern Rocky Mountain Ponderosa Pine Savanna,0,185004,8.5,495.6627168
+Replacement Fire,11270_15,0.0084802,Inter-Mountain Basins Semi-Desert Shrub-Steppe,0.843137255,72451,3.3,614.3989702
+Replacement Fire,11460_15_16_23_24_25_28,0.0516602,Southern Rocky Mountain Montane-Subalpine Grassland,0.698039216,50568,2.3,2612.352994
+Replacement Fire,11590_15,0.0186712,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,2369.99143
+Surface Fire,10230_14_15_24_25,0.0299608,Madrean Encinal,0.517647059,61191,2.8,1833.331313
+Surface Fire,10240_14_15_24,0.0293628,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,4150.461143
+Surface Fire,10250_14_15_24_25_26,0.0094216,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,296.3375848
+Surface Fire,10540_15_25,0.0965604,Southern Rocky Mountain Ponderosa Pine Woodland,0,1277151,58.4,123322.2114
+Surface Fire,10540_16_23_24,0.0507098,Southern Rocky Mountain Ponderosa Pine Woodland,0,30279,1.4,1535.442034
+Surface Fire,11040_15,0.0005036,Mogollon Chaparral,0.82745098,27473,1.3,13.8354028
+Surface Fire,11170_13_15_28,0.08955,Southern Rocky Mountain Ponderosa Pine Savanna,0,185004,8.5,16567.1082
+Surface Fire,11460_15_16_23_24_25_28,0.0483686,Southern Rocky Mountain Montane-Subalpine Grassland,0.698039216,50568,2.3,2445.903365
+Surface Fire,11590_15,0.1327698,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,16852.86902
+Wind or Weather or Stress,10230_14_15_24_25,0.0048148,Madrean Encinal,0.517647059,61191,2.8,294.6224268
+Wind or Weather or Stress,10240_14_15_24,0.0047202,Madrean Lower Montane Pine-Oak Forest and Woodland,0.117647059,141351,6.5,667.2049902
+Wind or Weather or Stress,10250_14_15_24_25_26,0.005702,Madrean Pinyon-Juniper Woodland,0.121568627,31453,1.4,179.345006
+Wind or Weather or Stress,11270_15,0.1009868,Inter-Mountain Basins Semi-Desert Shrub-Steppe,0.843137255,72451,3.3,7316.594647
+Wind or Weather or Stress,11590_15,0.1506916,Rocky Mountain Montane Riparian Systems,0.364705882,126933,5.8,19127.73686

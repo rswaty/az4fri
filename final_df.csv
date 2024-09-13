@@ -1,0 +1,113 @@
+"","BpS_Name","refLabel","refCur","Percent"
+"1","Madrean Lower Montane Pine-Oak Forest and Woodland","A","refPercent",21
+"2","Madrean Lower Montane Pine-Oak Forest and Woodland","A","currentPercent",40
+"3","Madrean Lower Montane Pine-Oak Forest and Woodland","A","refPercent",21
+"4","Madrean Lower Montane Pine-Oak Forest and Woodland","A","currentPercent",18
+"5","Madrean Lower Montane Pine-Oak Forest and Woodland","B","refPercent",37
+"6","Madrean Lower Montane Pine-Oak Forest and Woodland","B","currentPercent",19
+"7","Madrean Lower Montane Pine-Oak Forest and Woodland","B","refPercent",37
+"8","Madrean Lower Montane Pine-Oak Forest and Woodland","B","currentPercent",25
+"9","Madrean Lower Montane Pine-Oak Forest and Woodland","C","refPercent",25
+"10","Madrean Lower Montane Pine-Oak Forest and Woodland","C","currentPercent",0
+"11","Madrean Lower Montane Pine-Oak Forest and Woodland","C","refPercent",25
+"12","Madrean Lower Montane Pine-Oak Forest and Woodland","C","currentPercent",1
+"13","Madrean Lower Montane Pine-Oak Forest and Woodland","D","refPercent",17
+"14","Madrean Lower Montane Pine-Oak Forest and Woodland","D","currentPercent",34
+"15","Madrean Lower Montane Pine-Oak Forest and Woodland","D","refPercent",17
+"16","Madrean Lower Montane Pine-Oak Forest and Woodland","D","currentPercent",49
+"17","Madrean Lower Montane Pine-Oak Forest and Woodland","E","refPercent",NA
+"18","Madrean Lower Montane Pine-Oak Forest and Woodland","E","currentPercent",NA
+"19","Madrean Lower Montane Pine-Oak Forest and Woodland","Agriculture","refPercent",0
+"20","Madrean Lower Montane Pine-Oak Forest and Woodland","Agriculture","currentPercent",0
+"21","Madrean Lower Montane Pine-Oak Forest and Woodland","Developed","refPercent",0
+"22","Madrean Lower Montane Pine-Oak Forest and Woodland","Developed","currentPercent",4
+"23","Madrean Lower Montane Pine-Oak Forest and Woodland","Developed","refPercent",0
+"24","Madrean Lower Montane Pine-Oak Forest and Woodland","Developed","currentPercent",3
+"25","Madrean Lower Montane Pine-Oak Forest and Woodland","Water","refPercent",0
+"26","Madrean Lower Montane Pine-Oak Forest and Woodland","Water","currentPercent",NA
+"27","Madrean Lower Montane Pine-Oak Forest and Woodland","UN","refPercent",0
+"28","Madrean Lower Montane Pine-Oak Forest and Woodland","UN","currentPercent",0
+"29","Madrean Lower Montane Pine-Oak Forest and Woodland","UE","refPercent",0
+"30","Madrean Lower Montane Pine-Oak Forest and Woodland","UE","currentPercent",0
+"31","Madrean Lower Montane Pine-Oak Forest and Woodland","UE","refPercent",0
+"32","Madrean Lower Montane Pine-Oak Forest and Woodland","UE","currentPercent",0
+"33","Southern Rocky Mountain Ponderosa Pine Woodland","A","refPercent",10
+"34","Southern Rocky Mountain Ponderosa Pine Woodland","A","currentPercent",7
+"35","Southern Rocky Mountain Ponderosa Pine Woodland","B","refPercent",1
+"36","Southern Rocky Mountain Ponderosa Pine Woodland","B","currentPercent",15
+"37","Southern Rocky Mountain Ponderosa Pine Woodland","C","refPercent",13
+"38","Southern Rocky Mountain Ponderosa Pine Woodland","C","currentPercent",15
+"39","Southern Rocky Mountain Ponderosa Pine Woodland","D","refPercent",74
+"40","Southern Rocky Mountain Ponderosa Pine Woodland","D","currentPercent",2
+"41","Southern Rocky Mountain Ponderosa Pine Woodland","E","refPercent",2
+"42","Southern Rocky Mountain Ponderosa Pine Woodland","E","currentPercent",54
+"43","Southern Rocky Mountain Ponderosa Pine Woodland","Agriculture","refPercent",0
+"44","Southern Rocky Mountain Ponderosa Pine Woodland","Agriculture","currentPercent",0
+"45","Southern Rocky Mountain Ponderosa Pine Woodland","Developed","refPercent",0
+"46","Southern Rocky Mountain Ponderosa Pine Woodland","Developed","currentPercent",2
+"47","Southern Rocky Mountain Ponderosa Pine Woodland","Water","refPercent",0
+"48","Southern Rocky Mountain Ponderosa Pine Woodland","Water","currentPercent",NA
+"49","Southern Rocky Mountain Ponderosa Pine Woodland","UN","refPercent",0
+"50","Southern Rocky Mountain Ponderosa Pine Woodland","UN","currentPercent",0
+"51","Southern Rocky Mountain Ponderosa Pine Woodland","UE","refPercent",0
+"52","Southern Rocky Mountain Ponderosa Pine Woodland","UE","currentPercent",0
+"53","Southern Rocky Mountain Ponderosa Pine Woodland","A","refPercent",12
+"54","Southern Rocky Mountain Ponderosa Pine Woodland","A","currentPercent",3
+"55","Southern Rocky Mountain Ponderosa Pine Woodland","B","refPercent",5
+"56","Southern Rocky Mountain Ponderosa Pine Woodland","B","currentPercent",4
+"57","Southern Rocky Mountain Ponderosa Pine Woodland","C","refPercent",10
+"58","Southern Rocky Mountain Ponderosa Pine Woodland","C","currentPercent",85
+"59","Southern Rocky Mountain Ponderosa Pine Woodland","D","refPercent",68
+"60","Southern Rocky Mountain Ponderosa Pine Woodland","D","currentPercent",0
+"61","Southern Rocky Mountain Ponderosa Pine Woodland","E","refPercent",5
+"62","Southern Rocky Mountain Ponderosa Pine Woodland","E","currentPercent",0
+"63","Southern Rocky Mountain Ponderosa Pine Woodland","Agriculture","refPercent",0
+"64","Southern Rocky Mountain Ponderosa Pine Woodland","Agriculture","currentPercent",NA
+"65","Southern Rocky Mountain Ponderosa Pine Woodland","Developed","refPercent",0
+"66","Southern Rocky Mountain Ponderosa Pine Woodland","Developed","currentPercent",2
+"67","Southern Rocky Mountain Ponderosa Pine Woodland","Water","refPercent",0
+"68","Southern Rocky Mountain Ponderosa Pine Woodland","Water","currentPercent",NA
+"69","Southern Rocky Mountain Ponderosa Pine Woodland","UN","refPercent",0
+"70","Southern Rocky Mountain Ponderosa Pine Woodland","UN","currentPercent",NA
+"71","Southern Rocky Mountain Ponderosa Pine Woodland","UE","refPercent",0
+"72","Southern Rocky Mountain Ponderosa Pine Woodland","UE","currentPercent",0
+"73","Southern Rocky Mountain Ponderosa Pine Savanna","A","refPercent",11
+"74","Southern Rocky Mountain Ponderosa Pine Savanna","A","currentPercent",25
+"75","Southern Rocky Mountain Ponderosa Pine Savanna","B","refPercent",2
+"76","Southern Rocky Mountain Ponderosa Pine Savanna","B","currentPercent",0
+"77","Southern Rocky Mountain Ponderosa Pine Savanna","C","refPercent",23
+"78","Southern Rocky Mountain Ponderosa Pine Savanna","C","currentPercent",22
+"79","Southern Rocky Mountain Ponderosa Pine Savanna","D","refPercent",60
+"80","Southern Rocky Mountain Ponderosa Pine Savanna","D","currentPercent",38
+"81","Southern Rocky Mountain Ponderosa Pine Savanna","E","refPercent",4
+"82","Southern Rocky Mountain Ponderosa Pine Savanna","E","currentPercent",6
+"83","Southern Rocky Mountain Ponderosa Pine Savanna","Agriculture","refPercent",0
+"84","Southern Rocky Mountain Ponderosa Pine Savanna","Agriculture","currentPercent",0
+"85","Southern Rocky Mountain Ponderosa Pine Savanna","Developed","refPercent",0
+"86","Southern Rocky Mountain Ponderosa Pine Savanna","Developed","currentPercent",5
+"87","Southern Rocky Mountain Ponderosa Pine Savanna","Water","refPercent",0
+"88","Southern Rocky Mountain Ponderosa Pine Savanna","Water","currentPercent",NA
+"89","Southern Rocky Mountain Ponderosa Pine Savanna","UN","refPercent",0
+"90","Southern Rocky Mountain Ponderosa Pine Savanna","UN","currentPercent",NA
+"91","Southern Rocky Mountain Ponderosa Pine Savanna","UE","refPercent",0
+"92","Southern Rocky Mountain Ponderosa Pine Savanna","UE","currentPercent",1
+"93","Southern Rocky Mountain Ponderosa Pine Savanna","A","refPercent",5
+"94","Southern Rocky Mountain Ponderosa Pine Savanna","A","currentPercent",83
+"95","Southern Rocky Mountain Ponderosa Pine Savanna","B","refPercent",8
+"96","Southern Rocky Mountain Ponderosa Pine Savanna","B","currentPercent",2
+"97","Southern Rocky Mountain Ponderosa Pine Savanna","C","refPercent",11
+"98","Southern Rocky Mountain Ponderosa Pine Savanna","C","currentPercent",9
+"99","Southern Rocky Mountain Ponderosa Pine Savanna","D","refPercent",75
+"100","Southern Rocky Mountain Ponderosa Pine Savanna","D","currentPercent",0
+"101","Southern Rocky Mountain Ponderosa Pine Savanna","E","refPercent",1
+"102","Southern Rocky Mountain Ponderosa Pine Savanna","E","currentPercent",1
+"103","Southern Rocky Mountain Ponderosa Pine Savanna","Agriculture","refPercent",0
+"104","Southern Rocky Mountain Ponderosa Pine Savanna","Agriculture","currentPercent",0
+"105","Southern Rocky Mountain Ponderosa Pine Savanna","Developed","refPercent",0
+"106","Southern Rocky Mountain Ponderosa Pine Savanna","Developed","currentPercent",1
+"107","Southern Rocky Mountain Ponderosa Pine Savanna","Water","refPercent",0
+"108","Southern Rocky Mountain Ponderosa Pine Savanna","Water","currentPercent",NA
+"109","Southern Rocky Mountain Ponderosa Pine Savanna","UN","refPercent",0
+"110","Southern Rocky Mountain Ponderosa Pine Savanna","UN","currentPercent",NA
+"111","Southern Rocky Mountain Ponderosa Pine Savanna","UE","refPercent",0
+"112","Southern Rocky Mountain Ponderosa Pine Savanna","UE","currentPercent",0
